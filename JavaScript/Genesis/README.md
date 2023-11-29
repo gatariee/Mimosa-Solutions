@@ -48,30 +48,24 @@ Reach the end.
 6. Let's continue playing the game, and/or slowly increasing the level from 1 to 10.
 7. `"key": "level-8"`
 ```json
-...
 "data": {
     "code": "delta",
     "raw": "/* no one said my level names are numeric */",
 },
-...
 ```
 8. `"key": "delta"`
 ```json
-...
 "data":{
     "code":"zenith",
     "raw":""
 }  
-...
 ```
 9. `"key": "zenith"`
 ```json
-...
 "data":{
     "code":"wall",
     "raw":"texts = [ { color : '#37bc9b', weight : 700, size : '120px', font : 'Raleway', message : 'Bummer', position : { x : 400, y : 500 } }, { color : '#37bc9b', weight : 300, size : '36px', font : 'Raleway', message : 'I guess this is the end of the road.', position : { x : 405, y : 550 } } ];  var wall = Bodies.rectangle(canvas.width - 50, canvas.height / 2 - 50, 50, canvas.height, { isStatic : true, render : { fillStyle : '#e6e9ed' } }); bodies.push(wall); World.add(engine.world, wall);"
 }
-...
 ```
 
 10. `"key": "wall"`, and we finally get our... 10 points out of 25 points lol...
@@ -134,7 +128,7 @@ Reach the end.
 ```
 13. Following the code brings you back to the key "recursion", hence the key name `recursion`.
 14. This, however, is important.
-```json
+```
 message : 'Nothing quite like a little repetition.', position : { x : 405, y : 550 } } ]; /* the next level's key is \"castle\" *
 ```
 15. `"key": "castle"` - and we get our 15 points out of 25 points.
