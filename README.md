@@ -5,21 +5,19 @@ This repository contains the solutions for the challenges from [Mimosa](https://
 
 ## Challenges
 
-**Access Control**
-- [**Bad Teacher**](./Access%20Control/Bad%20Teacher/) - Beginner (15 points)
+## Challenges
 
-**General**
-- [**HTTP Basics**](./General/HTTP%20Basics/) - Beginner (15 points)
+| Category       |                       Challenge Name                     | Difficulty    | Points |
+| -------------- | ---------------------------------------------------------| ------------- | ------ |
+| Access Control | [Bad Teacher](./Access%20Control/Bad%20Teacher/)         | Beginner      |   15   |
+| General        | [HTTP Basics](./General/HTTP%20Basics/)                  | Beginner      |   15   |
+| JavaScript     | [Cookie Muncher](./JavaScript/Cookie%20Muncher/)         | Beginner      |   10   |
+| JavaScript     | [Faster than Light](./JavaScript/Faster%20than%20Light/) | Beginner      |   15   |
+| JavaScript     | [Genesis](./JavaScript/Genesis/)                         | Intermediate  |   25   |
+| JavaScript     | [Poison Apples](./JavaScript/Poison%20Apples/)           | Easy          |   25   |
+| JavaScript     | [Tree Chopper](./JavaScript/Tree%20Chopper/)             | Easy          |   25   |
+| TBD            | -                                                        | -             | -      |
 
-**JavaScript**
-- [**Cookie Muncher**](./JavaScript/Cookie%20Muncher/) - Beginner (10 points)
-- [**Faster than Light**](./JavaScript/Faster%20than%20Light/) - Beginner (15 points)
-- [**Genesis**](./JavaScript/Genesis/) - Intermediate (25 points)
-- [**Poison Apples**](./JavaScript/Poison%20Apples/) - Easy (25 points)
-- [**Tree Chopper**](./JavaScript/Tree%20Chopper/) - Easy (25 points)
-
-**SQLi**
-- TBD
 
 ## Usage
 Some challenges are provided with python solve scripts, do rememeber to populate your [**secrets**](./Secrets/) before running the scripts.
