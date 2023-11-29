@@ -5,8 +5,6 @@ This repository contains the solutions for the challenges from [Mimosa](https://
 
 ## Challenges
 
-## Challenges
-
 | Category       |                       Challenge Name                     | Difficulty    | Points |
 | -------------- | ---------------------------------------------------------| ------------- | ------ |
 | Access Control | [Bad Teacher](./Access%20Control/Bad%20Teacher/)         | Beginner      |   15   |
