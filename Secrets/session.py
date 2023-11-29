@@ -1,2 +1,2 @@
 SESSION_KEY = "JSESSIONID"
-SESSION_VALUE = "[redacted]"
+SESSION_VALUE = "redacted"

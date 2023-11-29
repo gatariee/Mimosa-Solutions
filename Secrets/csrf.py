@@ -1,2 +1,2 @@
 CSRF_KEY = "X-Csrf-Token"
-CSRF_VALUE = "[redacted]"
+CSRF_VALUE = "redacted"
