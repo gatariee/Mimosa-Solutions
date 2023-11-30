@@ -12,6 +12,10 @@ Cause a "helloworld" alert with a single search query.
 
 ## Solution
 1. Forge a blank Script for an alert
-    ```<script>alert()<script>```
+    ``` html
+    <script>alert()</script>
+    ```
 2. Fill in the the "helloworld"
-    ```<script>alert("helloworld")<script>```
+    ```html
+    <script>alert("helloworld")</script>
+    ```
