@@ -1,8 +1,8 @@
-#Xss Basics
+# Xss Basics
 
 
 
-##Description
+## Description
 Cross-site scripting (XSS) is a type of computer security vulnerability typically found in web applications. XSS enables attackers to inject client-side scripts into web pages viewed by other users.
 
 These scripts are often non-malicious, but pose as a nuisance to potential web users.
