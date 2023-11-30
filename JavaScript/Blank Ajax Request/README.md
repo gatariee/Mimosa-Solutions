@@ -1,4 +1,4 @@
-# Cookie Muncher
+# Blank Ajax
 
 ## Description
 A blank Ajax post requesst incase you forget the syntax
