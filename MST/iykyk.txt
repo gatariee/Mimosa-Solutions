@@ -1,0 +1,4 @@
+&<script>eval(atob('YWxlcnQoInhzc19ieV9zYW1fdGFuIik7Ozs7')); </script> =>
+test1&test2&<h1> <script>alert(1)</script> rc="http://malicious.com/xss.js">
+&<script>window["ale"+"rt"]("xss_by_sam_tan")</script> =>
+<script>eval("a"+"lert('xss_by_sam_tan')")</script>=script
